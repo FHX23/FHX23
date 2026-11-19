@@ -5,7 +5,7 @@
   <h4>💻 Software Engineer | 🚀 Backend & Full-Stack Developer</h4>
 
   <p>
-    Software developer based in Chile 🇨🇱, currently engineering software solutions at <b><a href="https://github.com/Vertitrack-SpA">@Vertitrack-SpA</a></b>.<br/>
+    Software developer based in Chile 🇨🇱, open to new opportunities.<br/>
     Specialized in designing resilient backend architectures, scalable REST APIs, and developer productivity tooling.
   </p>
 
@@ -15,8 +15,8 @@
 
   <p>
     <a href="https://www.linkedin.com/in/matiasarenasr/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/FHX23/Routier"><img src="https://img.shields.io/badge/npm%20package-Routier-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="Routier npm" /></a>
-    <a href="https://fhx23.github.io"><img src="https://img.shields.io/badge/Portfolio-fhx23.github.io-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.npmjs.com/package/routier"><img src="https://img.shields.io/badge/npm%20package-Routier-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="Routier npm" /></a>
+    <a href="https://matias-arenas.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-matias--arenas.vercel.app-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   </p>
 </div>
 
@@ -28,12 +28,12 @@
   <tr>
     <td>
       <h3>📦 <a href="https://github.com/FHX23/Routier">Routier — Developer CLI</a></h3>
-      <p>A fast, intuitive command-line interface built in <b>TypeScript</b> to inspect dependencies, streamline monorepo routing, and manage project file structures.</p>
+      <p>A fast, intuitive command-line interface built in <b>TypeScript</b> that analyzes API source code (<b>Next.js, Express, Fastify, NestJS &amp; GraphQL</b>) and generates <b>OpenAPI 3, Postman &amp; Insomnia</b> collections with no decorators or running server required.</p>
       <p>
-        <a href="https://www.npmjs.com/package/@fhx23/routier"><img src="https://img.shields.io/npm/v/@fhx23/routier.svg?style=flat-square&color=CB3837" alt="npm version" /></a>
-        <a href="https://github.com/FHX23/Routier/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="MIT License" /></a>
+        <a href="https://www.npmjs.com/package/routier"><img src="https://img.shields.io/npm/v/routier.svg?style=flat-square&color=CB3837" alt="npm version" /></a>
+        <a href="https://github.com/FHX23/Routier/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-ISC-blue.svg?style=flat-square" alt="ISC License" /></a>
       </p>
-      <pre><code>npx @fhx23/routier</code></pre>
+      <pre><code>npx routier</code></pre>
     </td>
   </tr>
 </table>
