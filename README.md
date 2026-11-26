@@ -15,7 +15,7 @@
 
   <p>
     <a href="https://www.linkedin.com/in/matiasarenasr/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://chromewebstore.google.com/detail/nacaekbeegbhbhianboflddghiophdpm?utm_source=item-share-cb"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-Mi%20Nueva%20Pesta%C3%B1a-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store" /></a>
+    <a href="https://chromewebstore.google.com/detail/nacaekbeegbhbhianboflddghiophdpm"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-Mi%20Nueva%20Pesta%C3%B1a-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store" /></a>
     <a href="https://www.npmjs.com/package/routier"><img src="https://img.shields.io/badge/npm%20package-Routier-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="Routier npm" /></a>
     <a href="https://matias-arenas.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-matias--arenas.vercel.app-10B981?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>
   </p>
@@ -31,7 +31,7 @@
       <h3>✨ <a href="https://mi-nueva-pestana.vercel.app/">Mi Nueva Pestaña · My New Tab</a></h3>
       <p>A mobile home-screen style Chrome new tab built with <b>pure Vanilla JS, CSS &amp; HTML (zero dependencies)</b>. Features 15 local widgets (Drive, Calendar, Pomodoro, interactive calculator), 18 QHD/4K backgrounds, custom grid layouts, and 100% on-device privacy.</p>
       <p>
-        <a href="https://chromewebstore.google.com/detail/nacaekbeegbhbhianboflddghiophdpm?utm_source=item-share-cb"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-Añadir%20a%20Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Web Store" /></a>
+        <a href="https://chromewebstore.google.com/detail/nacaekbeegbhbhianboflddghiophdpm"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-Añadir%20a%20Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Web Store" /></a>
         <a href="https://mi-nueva-pestana.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Landing%20Web-mi--nueva--pestana.vercel.app-00C4CC?style=flat-square" alt="Landing Web" /></a>
         <a href="https://github.com/FHX23/new-tab-chrome-extension"><img src="https://img.shields.io/badge/GitHub-Extension%20Repo-181717?style=flat-square&logo=github" alt="Extension Repo" /></a>
       </p>
